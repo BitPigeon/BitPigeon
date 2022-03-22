@@ -1,4 +1,6 @@
-- Hi, I’m [@desvasicek](https://github.com/desvasicek/)
-- I’m interested in HTML, JavaScript, and CSS
-- I’m currently learning C++
-- My favorite language is JavaScript
+# desvasicek
+
+I am a programmer interested in python, javascript, and C++
+
+- I am currently working on a game in unity game development and multiple python projects
+- I am also interested in making pixelart
