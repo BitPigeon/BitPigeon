@@ -6,4 +6,4 @@ I am a programmer interested in python, javascript, CSS, and shell script
 - I am also interested in making pixelart
 - I love to make GAMES. GAMES ARE LIFE 😆!
 
-[![devasicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=desvasicek)]
+![devasicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=desvasicek)
