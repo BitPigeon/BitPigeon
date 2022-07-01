@@ -1,4 +1,4 @@
-# desvasicek 😅
+# desvasicek
 
 I am a programmer interested in python, javascript, CSS, and shell script
 
