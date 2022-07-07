@@ -1,4 +1,4 @@
-﻿# Hello World!
+# Hello World!
 ## I'm @desvasicek
 [![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)]()
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -8,6 +8,7 @@
 ![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+
 I like to make cool stuff for python. I hope to one day make something awesome everyone uses.
 ### About Me
 - I love to code! Coding is fun + it is a good skill to have. 
