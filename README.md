@@ -1,5 +1,13 @@
-# Hello World!
+﻿# Hello World!
 ## I'm @desvasicek
+[![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)]()
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 I like to make cool stuff for python. I hope to one day make something awesome everyone uses.
 ### About Me
 - I love to code! Coding is fun + it is a good skill to have. 
@@ -12,3 +20,26 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 - [Carbon](https://github.com/carbon-design-system/carbon)
 - [You-Get](https://github.com/soimort/you-get)
 - [MockingBird](https://github.com/babysor/MockingBird)
+### My Skills
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### On Github
+![Trophies](https://github-profile-trophy.vercel.app/?username=desvasicek)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desvasicek&theme=vue)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=desvasicek)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=desvasicek)
+
+![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=desvasicek)
+#### Profile Views
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesvasicek1212%2Fhit-counter)
+
