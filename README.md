@@ -50,7 +50,13 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 ## On Github
 
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesvasicek1212%2Fhit-counter)
+### Repos
+
+<!--GITHUB_REPOS:{"rows": 8, "raw": true}-->
+
+### Activity
+
+<!--GITHUB_ACTIVITY:{"rows": 8, "raw": true}-->
 
 # Awesome Followers!
 
