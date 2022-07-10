@@ -1,7 +1,11 @@
 name: Weekly Report
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
+  push:
+  
+  workflow_dispatch:
+  
 jobs:
   run:
     runs-on: ubuntu-latest
