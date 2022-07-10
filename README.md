@@ -49,6 +49,28 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 <!--ACTION_START_FLAG:github-followers-->
 <table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/peter-kimanzi">
+            <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
+        </a>
+        <br />
+        <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Lisa778">
+            <img src="https://avatars2.githubusercontent.com/u/109013574" width="100px;" alt="Lisa778"/>
+        </a>
+        <br />
+        <a href="https://github.com/Lisa778">Lisa778</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/me00up">
+            <img src="https://avatars2.githubusercontent.com/u/96935657" width="100px;" alt="me00up"/>
+        </a>
+        <br />
+        <a href="https://github.com/me00up">me00up</a>
+    </td>
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
