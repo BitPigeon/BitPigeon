@@ -52,25 +52,27 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 ### Repos
 
-⭐️ 4 📦 desvasicek/Pigeon2D
-⭐️ 3 📦 desvasicek/Grocery-Lists
-⭐️ 2 📦 desvasicek/desvasicek
-⭐️ 1 📦 desvasicek/ddShared
-⭐️ 1 📦 desvasicek/PiPy
-⭐️ 0 📦 desvasicek/audubon-news
-⭐️ 0 📦 desvasicek/Clock
-⭐️ 0 📦 desvasicek/DocuEditor
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 4 | [desvasicek/Pigeon2D](https://github.com/desvasicek/Pigeon2D) | A python game engine for pygame. |
+| 📦 | 3 | [desvasicek/Grocery-Lists](https://github.com/desvasicek/Grocery-Lists) | A simple list taking website, with AutoSave. |
+| 📦 | 2 | [desvasicek/desvasicek](https://github.com/desvasicek/desvasicek) | Config files for my GitHub profile. |
+| 📦 | 1 | [desvasicek/ddShared](https://github.com/desvasicek/ddShared) | null |
+| 📦 | 1 | [desvasicek/PiPy](https://github.com/desvasicek/PiPy) | PiPy is a simple open source python-made Python IDE.  |
+| 📦 | 0 | [desvasicek/audubon-news](https://github.com/desvasicek/audubon-news) | A python program that fetches news from the National Audubon Society page and formats it nicely in the shell |
+| 📦 | 0 | [desvasicek/Clock](https://github.com/desvasicek/Clock) | null |
+| 📦 | 0 | [desvasicek/DocuEditor](https://github.com/desvasicek/DocuEditor) | A simple file editing python app |
 
 ### Activity
 
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
-⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/desvasicek
 
 # Awesome Followers!
 
