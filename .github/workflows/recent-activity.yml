@@ -1,17 +1,11 @@
-name: Update README
-
+name: Weekly Report
 on:
   schedule:
-    - cron: "* * * * *"
-  workflow_dispatch:
-
+    - cron: '* * * * *'
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
-    name: Update with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
+      - uses: wow-actions/activity-report@v1
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
