@@ -36,5 +36,8 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesvasicek1212%2Fhit-counter)
 # Awesome Followers!
 <!--ACTION_START_FLAG:github-followers-->
+<table>
+  </tr>
+</table>
 <!--ACTION_END_FLAG:github-followers-->
 
