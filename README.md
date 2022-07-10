@@ -13,7 +13,14 @@
 
 I like to make cool stuff for python. I hope to one day make something awesome everyone uses.
 
-### About Me
+- [Hello, World](#im-desvasicek)
+  - [About Me](#about-me)
+  - [Awesome Stuff](#awesome-stuff)
+  - [My Skills](#my-skills)
+  - [On Github](#on-github)
+- [Awesome Followers!](#awesome-followers)
+
+## About Me
 
 - I love to code! Coding is fun + it is a good skill to have. 
 - I also love science, specifically biology. 
@@ -22,14 +29,14 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 - GitHub is so useful! More people should use it!
 - Pronouns: He/Him
 
-### Awesome Stuff
+## Awesome Stuff
 
 - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
 - [Carbon](https://github.com/carbon-design-system/carbon)
 - [You-Get](https://github.com/soimort/you-get)
 - [MockingBird](https://github.com/babysor/MockingBird)
 
-### My Skills
+## My Skills
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -41,7 +48,7 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### On Github
+## On Github
 
 ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesvasicek1212%2Fhit-counter)
 
