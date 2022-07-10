@@ -32,15 +32,7 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ### On Github
-![Trophies](https://github-profile-trophy.vercel.app/?username=desvasicek)
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desvasicek&theme=vue)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=desvasicek)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=desvasicek)
-
-![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=desvasicek)
-#### Profile Views
 ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesvasicek1212%2Fhit-counter)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
