@@ -52,11 +52,11 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 ### Repos
 
-<!--GITHUB_REPOS:{"rows": 8, "raw": true}-->
+<!--GITHUB_REPOS:{"rows": 8, "raw": false}-->
 
 ### Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 8, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 8, "raw": false}-->
 
 # Awesome Followers!
 
