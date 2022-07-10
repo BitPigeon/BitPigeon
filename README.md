@@ -34,6 +34,7 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ### On Github
 ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesvasicek1212%2Fhit-counter)
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+# Awesome Followers!
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
 
