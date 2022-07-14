@@ -49,6 +49,7 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## On Github
+![My GitWar Score](https://gitwar.herokuapp.com/badge?username=desvasicek&style=for-the-badge&color=yellow)
 
 ### Repos
 
