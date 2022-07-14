@@ -49,13 +49,12 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## On Github
-![My GitWar Score](https://gitwar.herokuapp.com/badge?username=desvasicek&style=for-the-badge&color=yellow)
 
 ### Repos
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 4 | [desvasicek/Pigeon2D](https://github.com/desvasicek/Pigeon2D) | A python game engine for pygame. |
+| 📦 | 6 | [desvasicek/Pigeon2D](https://github.com/desvasicek/Pigeon2D) | A python game engine for pygame. |
 | 📦 | 3 | [desvasicek/Grocery-Lists](https://github.com/desvasicek/Grocery-Lists) | A simple list taking website, with AutoSave. |
 | 📦 | 2 | [desvasicek/desvasicek](https://github.com/desvasicek/desvasicek) | Config files for my GitHub profile. |
 | 📦 | 1 | [desvasicek/ddShared](https://github.com/desvasicek/ddShared) | null |
@@ -66,14 +65,14 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 ### Activity
 
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
+* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* 📦 Released "v1.3.1" in desvasicek/Pigeon2D
+* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* ❌ Closed PR #5 in desvasicek/Pigeon2D
+* 🗣 Commented on #5 in desvasicek/Pigeon2D
+* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* 🎉 Merged PR #6 in desvasicek/Pigeon2D
+* 💪 Opened PR #6 in desvasicek/Pigeon2D
 
 # Awesome Followers!
 
