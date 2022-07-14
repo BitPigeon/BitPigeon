@@ -65,6 +65,7 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 ### Activity
 
+* ⬆️ Pushed 2 commits to desvasicek/Pigeon2D
 * 📦 Released "1.3.2" in desvasicek/Pigeon2D
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
@@ -72,7 +73,6 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 * ❗️ Closed issue #4 in desvasicek/Pigeon2D
 * 🗣 Commented on #4 in desvasicek/Pigeon2D
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* 📦 Released "v1.3.1" in desvasicek/Pigeon2D
 
 # Awesome Followers!
 
