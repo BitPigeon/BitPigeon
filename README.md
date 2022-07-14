@@ -27,9 +27,7 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 - I beleive everyone should have a good README for github. It is pretty much the entire explanation of your project, and if you don't have one, users will be like "Um, what do I do here???". Also it increases the popularity of your project, if it stands out. Also, if you can't make one yourself, just generate one online! There are tons of repos for that.
 - I love Markdown and Python! reStructuredText is my worst enemy.
 - GitHub is so useful! More people should use it!
-- Pronouns: He/Him/His
-- I'm not amazing at coding, but I consider myself pretty good.
-- Ask me about: python, github
+- Pronouns: He/Him
 
 ## Awesome Stuff
 
@@ -67,14 +65,14 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 
 ### Activity
 
+* 📦 Released "1.3.2" in desvasicek/Pigeon2D
+* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* ❗️ Closed issue #4 in desvasicek/Pigeon2D
+* 🗣 Commented on #4 in desvasicek/Pigeon2D
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
 * 📦 Released "v1.3.1" in desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* ❌ Closed PR #5 in desvasicek/Pigeon2D
-* 🗣 Commented on #5 in desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* 🎉 Merged PR #6 in desvasicek/Pigeon2D
-* 💪 Opened PR #6 in desvasicek/Pigeon2D
 
 # Awesome Followers!
 
