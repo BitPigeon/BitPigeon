@@ -19,7 +19,11 @@
 
 - ⚡ Fun fact **I love to learn new things**
 
-- 🧍 Pronouns: He/Him/His
+- 🧍 Pronouns **He/Him/His**
+
+- 💲️About Me **I am not a paid developer**
+
+[``#standwithukraine``](https://github.com/topics/standwithukraine)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
