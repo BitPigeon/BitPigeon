@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I love to learn new things**
 
+- 🧍 Pronouns: He/Him/His
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
