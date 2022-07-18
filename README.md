@@ -69,10 +69,10 @@ I like to make cool stuff for python. I hope to one day make something awesome e
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
 * ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
+* ⬆️ Pushed 2 commits to desvasicek/Pigeon2D
+* 🎉 Merged PR #9 in desvasicek/Pigeon2D
+* 💪 Opened PR #9 in desvasicek/Pigeon2D
 
 # Awesome Followers!
 
