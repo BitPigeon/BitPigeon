@@ -1,106 +1,33 @@
-# Hello World!
+<h1 align="center">Hi 👋, I'm desvasicek</h1>
+<h3 align="center">I like to make cool stuff for python.</h3>
 
-## I'm @desvasicek
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=desvasicek&label=Profile%20views&color=0e75b6&style=flat" alt="desvasicek" /> </p>
 
-[![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)]()
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+- 🔭 I’m currently working on [Pigeon2D](https://github.com/desvasicek/Pigeon2D)
 
-I like to make cool stuff for python. I hope to one day make something awesome everyone uses.
+- 🌱 I’m currently learning **how to code better python**
 
-- [Hello, World](#im-desvasicek)
-  - [About Me](#about-me)
-  - [Awesome Stuff](#awesome-stuff)
-  - [My Skills](#my-skills)
-  - [On Github](#on-github)
-- [Awesome Followers!](#awesome-followers)
+- 👯 I’m looking to collaborate on [tukaan](https://github.com/tukaan/tukaan)
 
-## About Me
+- 🤝 I’m looking for help with [Pigeon2D](https://github.com/Pigeon2D)
 
-- I love to code! Coding is fun + it is a good skill to have. 
-- I also love science, specifically biology. 
-- I beleive everyone should have a good README for github. It is pretty much the entire explanation of your project, and if you don't have one, users will be like "Um, what do I do here???". Also it increases the popularity of your project, if it stands out. Also, if you can't make one yourself, just generate one online! There are tons of repos for that.
-- I love Markdown and Python! reStructuredText is my worst enemy.
-- GitHub is so useful! More people should use it!
-- Pronouns: He/Him
+- 👨‍💻 All of my projects are available at [https://github.com/desvasicek](https://github.com/desvasicek)
 
-## Awesome Stuff
+- 💬 Ask me about **python**
 
-- [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
-- [Carbon](https://github.com/carbon-design-system/carbon)
-- [You-Get](https://github.com/soimort/you-get)
-- [MockingBird](https://github.com/babysor/MockingBird)
+- 📫 How to reach me **https://github.com/desvasicek/desvasicek/discussions/1**
 
-## My Skills
+- ⚡ Fun fact **I love to learn new things**
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## On Github
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### Repos
+<h1 align="center">Stats</h3>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desvasicek&show_icons=true&locale=en" alt="desvasicek" /></p>
 
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 6 | [desvasicek/Pigeon2D](https://github.com/desvasicek/Pigeon2D) | A python game engine for pygame. |
-| 📦 | 3 | [desvasicek/Grocery-Lists](https://github.com/desvasicek/Grocery-Lists) | A simple list taking website, with AutoSave. |
-| 📦 | 2 | [desvasicek/desvasicek](https://github.com/desvasicek/desvasicek) | Config files for my GitHub profile. |
-| 📦 | 1 | [desvasicek/ddShared](https://github.com/desvasicek/ddShared) | null |
-| 📦 | 1 | [desvasicek/PiPy](https://github.com/desvasicek/PiPy) | PiPy is a simple open source python-made Python IDE.  |
-| 📦 | 0 | [desvasicek/audubon-news](https://github.com/desvasicek/audubon-news) | A python program that fetches news from the National Audubon Society page and formats it nicely in the shell |
-| 📦 | 0 | [desvasicek/Clock](https://github.com/desvasicek/Clock) | null |
-| 📦 | 0 | [desvasicek/DocuEditor](https://github.com/desvasicek/DocuEditor) | A simple file editing python app |
-
-### Activity
-
-* 📦 Released "v1.3.3" in desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/desvasicek
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* ⬆️ Pushed 3 commits to desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-* ⬆️ Pushed 1 commit to desvasicek/Pigeon2D
-
-# Awesome Followers!
-
-<!--ACTION_START_FLAG:github-followers-->
-<table>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/peter-kimanzi">
-            <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
-        </a>
-        <br />
-        <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Lisa778">
-            <img src="https://avatars2.githubusercontent.com/u/109013574" width="100px;" alt="Lisa778"/>
-        </a>
-        <br />
-        <a href="https://github.com/Lisa778">Lisa778</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/me00up">
-            <img src="https://avatars2.githubusercontent.com/u/96935657" width="100px;" alt="me00up"/>
-        </a>
-        <br />
-        <a href="https://github.com/me00up">me00up</a>
-    </td>
-  </tr>
-</table>
-<!--ACTION_END_FLAG:github-followers-->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desvasicek&" alt="desvasicek" /></p>
 
