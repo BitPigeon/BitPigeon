@@ -21,7 +21,13 @@
 
 - 🧍 Pronouns **He/Him/His**
 
-- 💲️About Me **I am not a paid developer**
+- 💲️ About Me **I am not a paid developer**
+
+- :evergreen_tree: I live somewhere in Oregon
+
+- :bird: I love biology
+
+- :computer: Raspberry Pi User, Ubuntu Fan
 
 [``#standwithukraine``](https://github.com/topics/standwithukraine)
 
