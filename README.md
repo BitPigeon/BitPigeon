@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=desvasicek&label=Profile%20views&color=0e75b6&style=flat" alt="desvasicek" /> </p>
 
-- 🔭 I’m currently working on [Pigeon2D](https://github.com/desvasicek/Pigeon2D)
+- 🔭 I’m currently working on [`sfs`](https://github.com/desvasicek/setup-file-skeleton)
 
 - 🌱 I’m currently learning **how to code better python**
 
 - 👯 I’m looking to collaborate on [tukaan](https://github.com/tukaan/tukaan)
 
-- 🤝 I’m looking for help with [Pigeon2D](https://github.com/Pigeon2D)
+- 🤝 I’m looking for help with [`sfs`](https://github.com/desvasicek/setup-file-skeleton)
 
 - 👨‍💻 All of my projects are available at [https://github.com/desvasicek](https://github.com/desvasicek)
 
@@ -28,6 +28,8 @@
 - :bird: I love biology
 
 - :computer: Raspberry Pi User, Ubuntu Fan
+
+- :pencil: I like to draw.
 
 [``#standwithukraine``](https://github.com/topics/standwithukraine)
 
