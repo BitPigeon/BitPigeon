@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=desvasicek&label=Profile%20views&color=0e75b6&style=flat" alt="desvasicek" /> </p>
 
-- 🔭 I’m currently working on [`sfs`](https://github.com/desvasicek/setup-file-skeleton)
+- 🔭 I’m currently working on [`guess.py`](https://github.com/desvasicek/guess.py)
 
 - 🌱 I’m currently learning **how to code better python**
 
 - 👯 I’m looking to collaborate on [tukaan](https://github.com/tukaan/tukaan)
 
-- 🤝 I’m looking for help with [`sfs`](https://github.com/desvasicek/setup-file-skeleton)
+- 🤝 I’m looking for help with [`guess.py`](https://github.com/desvasicek/guess.py)
 
 - 👨‍💻 All of my projects are available at [https://github.com/desvasicek](https://github.com/desvasicek)
 
@@ -45,3 +45,13 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desvasicek&" alt="desvasicek" /></p>
 
+
+
+<details><summary>On more platforms.</summary>
+
+
+- [Scratch](https://scratch.mit.edu/users/_RealPenguinCodes/)
+
+That's kind of it.
+
+</details>
