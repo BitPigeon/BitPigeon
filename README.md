@@ -3,13 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=desvasicek&label=Profile%20views&color=0e75b6&style=flat" alt="desvasicek" /> </p>
 
-- 🔭 I’m currently working on [`guess.py`](https://github.com/desvasicek/guess.py)
+NOTE: I might be inactive early and late in the day.
+
+- 🔭 I’m currently working on [`Abinde`](https://github.com/desvasicek/abinde)
 
 - 🌱 I’m currently learning **how to code better python**
 
 - 👯 I’m looking to collaborate on [tukaan](https://github.com/tukaan/tukaan)
 
-- 🤝 I’m looking for help with [`guess.py`](https://github.com/desvasicek/guess.py)
+- 🤝 I’m looking for help with [`Abinde`](https://github.com/desvasicek/abinde)
 
 - 👨‍💻 All of my projects are available at [https://github.com/desvasicek](https://github.com/desvasicek)
 
