@@ -29,30 +29,48 @@ NOTE: I might be inactive early and late in the day.
 
 - :pencil: I like to **draw**
 
-[``#standwithukraine``](https://github.com/topics/standwithukraine)
+[\#standwithukraine](https://github.com/topics/standwithukraine)
 
 ## Important
 
 
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Flat is better than nested.
-Sparse is better than dense.
-Readability counts.
-Special cases aren't special enough to break the rules.
-Although practicality beats purity.
-Errors should never pass silently.
-Unless explicitly silenced.
-In the face of ambiguity, refuse the temptation to guess.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch.
-Now is better than never.
-Although never is often better than *right* now.
-If the implementation is hard to explain, it's a bad idea.
-If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let's do more of those!
+__Beautiful__ is ___better___ than _ugly_.
+
+__Explicit__ is ___better___ than _implicit_.
+
+__Simple__ is ___better___ than _complex_.
+
+__Complex__ is ___better___ than _complicated_.
+
+__Flat__ is ___better___ than _nested_.
+
+__Sparse__ is ___better___ than _dense_.
+
+__Readability__ ___counts___.
+
+__Special__ cases aren't __special__ ___enough___ to _break the rules_.
+
+Although __practicality__ ___beats___ _purity_.
+
+__Errors__ should ___never___ pass _silently_.
+
+Unless ___explicitly__ silenced.
+
+In the face of _ambiguity_, ___refuse the temptation___ to _guess_.
+
+There should be __one__-- and _preferably_ only __one__ --___obvious___ way to do it.
+
+Although that way may not be ___obvious___ at first unless you're __Dutch__.
+
+__Now__ is ___better___ than _never_.
+
+Although _never_ is __often__ ___better___ than _\*right\* now_.
+
+If the __implementation__ is hard to ___explain___, it's a _bad_ idea.
+
+If the __implementation__ is easy to ___explain___, it may be a __good__ idea.
+
+___Namespaces___ are one _honking_ great idea -- __let's do more of those!__
 
 
 
