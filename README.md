@@ -29,6 +29,8 @@ NOTE: I might be inactive early and late in the day.
 
 - :pencil: I like to **draw**
 
+<center><h3>If you're looking at this and have knowledge of python/pygame, I would like help on <a href=https://github.com/Abinde-Game-Dev>Abinde</a></h3></center>
+
 [\#standwithukraine](https://github.com/topics/standwithukraine)
 
 ## Important
