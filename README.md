@@ -12,5 +12,6 @@ I don't really do all to much github nowadays, but I still code sometimes.
 - Having __fun__
 - I know __HTML__, __JavaScript__, __Python__, __sh__, and some __C#__
 - My coding is very __sloppy__, because I am __self-taught__
+- I want __Unity__, but I run a slow __Raspberry Pi 3__
 
 Not all of my __projects__ are on __GitHub__. Please give me something to do and __invite me__ to one of your __projects__.
