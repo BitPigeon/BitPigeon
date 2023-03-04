@@ -1,4 +1,4 @@
-# Hi, I'm TheRealPenguin
+# Hi, I'm BitPigeon
 
 I don't really do all to much github nowadays, but I still code sometimes.
 
