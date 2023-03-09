@@ -2,13 +2,13 @@
 <h3 align="center">A programming hobbyist</h3>
 
 
-- I’m currently working on [copper](https://github.com/copperscript/copper)
+- I’m currently working on **nothing**
 
 - I’m currently learning **mysql**
 
 - I’m looking to collaborate on **anything**
 
-- I’m looking for help with [copper](https://github.com/copperscript/copper)
+- I’m looking for help with **nothing**
 
 - Ask me about **python**
 
