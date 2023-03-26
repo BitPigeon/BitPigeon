@@ -32,11 +32,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1362 | No Rating | No Rating |
+| Current | 1281 | No Rating | No Rating |
 | Best | 1362 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AushMuchs | **BitPigeon** | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/n5k1/4q3/4P3/5B2/P2K1P2/8 w - -">Link</a> | Rapid |
+| **BitPigeon** | Carluch2023 | checkmated ❌ | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp1nppp/3p4/2b5/2B1PP2/2N4b/PPP2PqP/R1BQR2K w kq -">Link</a> | Rapid |
 | me00up | **BitPigeon** | win 🥇 | 7/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/8/p7/1r6/p5k1/8/4K3/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
