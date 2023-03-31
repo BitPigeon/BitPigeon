@@ -32,11 +32,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1244 | No Rating | No Rating |
+| Current | 1244 | 796 | No Rating |
 | Best | 1362 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| gadihminang | **BitPigeon** | abandoned  | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4N1RB/3B4/5P2/2PK3P/1r3k2/7R b - -">Link</a> | Blitz |
+| jarekkra | **BitPigeon** | resigned ❌ | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbB1k2/5p2/1p5p/b3P3/4N3/1BP2N2/PP3PPP/R2R2K1 b - -">Link</a> | Blitz |
+| **BitPigeon** | JxMasterJ | checkmated ❌ | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp3p1/2np2p1/4p1q1/2P4r/7K/PP2Q1PP/4R3 w - -">Link</a> | Blitz |
 | **BitPigeon** | me00up | agreed ⏸️ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pp3ppp/3p4/8/3NP3/8/PP3PPP/RNBQKB1R b KQkq -">Link</a> | Rapid |
 | **BitPigeon** | me00up | resigned ❌ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5kp1/r2p1n2/4p3/7K/1p6/8 w - - 0 47">Link</a> | Daily |
 | AushMuchs | **BitPigeon** | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/n5k1/4q3/4P3/5B2/P2K1P2/8 w - -">Link</a> | Rapid |
