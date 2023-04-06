@@ -37,6 +37,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| me00up | **BitPigeon** | stalemate ⏸️ | 5/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3RQ3/2k5/6K1/1Q6/8/8/8/8 b - - 4 70">Link</a> | Daily |
 | me00up | **BitPigeon** | resigned ❌ | 2/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/2P1Q3/6k1/8/1P3P2/1B4K1/1N6 b - - 0 47">Link</a> | Daily |
 | gadihminang | **BitPigeon** | abandoned  | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4N1RB/3B4/5P2/2PK3P/1r3k2/7R b - -">Link</a> | Blitz |
 | jarekkra | **BitPigeon** | resigned ❌ | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbB1k2/5p2/1p5p/b3P3/4N3/1BP2N2/PP3PPP/R2R2K1 b - -">Link</a> | Blitz |
