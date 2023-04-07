@@ -37,6 +37,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| me00up | **BitPigeon** | win 🥇 | 7/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/7q/k4K2/7p/8/8/8 w - - 0 53">Link</a> | Daily |
 | me00up | **BitPigeon** | stalemate ⏸️ | 5/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3RQ3/2k5/6K1/1Q6/8/8/8/8 b - - 4 70">Link</a> | Daily |
 | me00up | **BitPigeon** | resigned ❌ | 2/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/2P1Q3/6k1/8/1P3P2/1B4K1/1N6 b - - 0 47">Link</a> | Daily |
 | gadihminang | **BitPigeon** | abandoned  | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4N1RB/3B4/5P2/2PK3P/1r3k2/7R b - -">Link</a> | Blitz |
@@ -46,6 +47,5 @@
 | **BitPigeon** | me00up | resigned ❌ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5kp1/r2p1n2/4p3/7K/1p6/8 w - - 0 47">Link</a> | Daily |
 | AushMuchs | **BitPigeon** | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/n5k1/4q3/4P3/5B2/P2K1P2/8 w - -">Link</a> | Rapid |
 | **BitPigeon** | Carluch2023 | checkmated ❌ | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp1nppp/3p4/2b5/2B1PP2/2N4b/PPP2PqP/R1BQR2K w kq -">Link</a> | Rapid |
-| me00up | **BitPigeon** | win 🥇 | 7/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/8/p7/1r6/p5k1/8/4K3/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
