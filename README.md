@@ -37,6 +37,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **BitPigeon** | oregonfan96 | win 🥇 | 12/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pp1p1ppp/2n1p3/8/4P3/2P1bN2/P3NPPP/R2QKB1R w KQkq - 0 9">Link</a> | Daily |
+| me00up | **BitPigeon** | checkmated ❌ | 12/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6P1/p3N2P/P5Bk/2K1Q3/7R b - - 6 48">Link</a> | Daily |
 | BuckChesse | **BitPigeon** | checkmated ❌ | 8/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3R/K5R1/8/7p/4P3/5n2/PP6/2r5 b - -">Link</a> | Rapid |
 | me00up | **BitPigeon** | win 🥇 | 7/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/7q/k4K2/7p/8/8/8 w - - 0 53">Link</a> | Daily |
 | me00up | **BitPigeon** | stalemate ⏸️ | 5/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3RQ3/2k5/6K1/1Q6/8/8/8/8 b - - 4 70">Link</a> | Daily |
@@ -45,7 +47,5 @@
 | jarekkra | **BitPigeon** | resigned ❌ | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbB1k2/5p2/1p5p/b3P3/4N3/1BP2N2/PP3PPP/R2R2K1 b - -">Link</a> | Blitz |
 | **BitPigeon** | JxMasterJ | checkmated ❌ | 30/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp3p1/2np2p1/4p1q1/2P4r/7K/PP2Q1PP/4R3 w - -">Link</a> | Blitz |
 | **BitPigeon** | me00up | agreed ⏸️ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pp3ppp/3p4/8/3NP3/8/PP3PPP/RNBQKB1R b KQkq -">Link</a> | Rapid |
-| **BitPigeon** | me00up | resigned ❌ | 26/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5kp1/r2p1n2/4p3/7K/1p6/8 w - - 0 47">Link</a> | Daily |
-| AushMuchs | **BitPigeon** | win 🥇 | 25/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/n5k1/4q3/4P3/5B2/P2K1P2/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
