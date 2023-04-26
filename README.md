@@ -32,11 +32,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 779 | 656 | No Rating |
+| Current | 750 | 656 | No Rating |
 | Best | 1362 | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **BitPigeon** | Maria_gruznova | resigned ❌ | 25/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1p1pp/4bp2/3p4/8/8/PPPPQPPP/RNB1KBNR b KQkq -">Link</a> | Rapid |
+| Crashyboi | **BitPigeon** | repetition ⏸️ | 25/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5Qp1/P3K1k1/6b1/7q b - -">Link</a> | Rapid |
+| schacher339 | **BitPigeon** | stalemate ⏸️ | 25/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4N3/6P1/8/3N1K1k/5Q2 b - -">Link</a> | Rapid |
 | **BitPigeon** | thephilippian | checkmated ❌ | 21/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pp3pp1/2np3p/1B6/8/Q1P1n3/PPq3PP/RNK4R w kq -">Link</a> | Blitz |
 | thephilippian | **BitPigeon** | checkmated ❌ | 21/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/5ppp/8/2p5/2P3n1/1B4B1/PP1K3P/R5NR b - -">Link</a> | Blitz |
 | **BitPigeon** | me00up | checkmated ❌ | 21/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k5/p7/P3n3/5r2/6q1/5b1K w - - 6 56">Link</a> | Daily |
@@ -44,8 +47,5 @@
 | alikaytaz | **BitPigeon** | checkmated ❌ | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1R/pR6/3n4/4N3/6P1/8/P2K1PP1/5B2 b - -">Link</a> | Rapid |
 | **BitPigeon** | TheGidler | win 🥇 | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1R1k1/pp3ppp/2p5/5q2/8/N4P2/PP2B2P/4K1NR b K -">Link</a> | Rapid |
 | **BitPigeon** | Agexn0 | checkmated ❌ | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k2r/b1pb1ppp/8/8/5P2/6K1/PPP2q1P/RNB5 w k -">Link</a> | Rapid |
-| **BitPigeon** | yousnoozeyouloose1 | checkmated ❌ | 19/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pb6/5Qp1/7p/6n1/8/PPP2PqP/R1B3K1 w - -">Link</a> | Rapid |
-| bogilgi2 | **BitPigeon** | checkmated ❌ | 19/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/p1Nn2pp/1pN5/2p2p2/2B5/8/PP3PPP/n1BR2K1 b - -">Link</a> | Rapid |
-| **BitPigeon** | chanchayn | checkmated ❌ | 19/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q4bk1/p1p2ppp/2p5/Kp6/1P6/q3N1P1/P6P/5R2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
