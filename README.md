@@ -37,6 +37,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| me00up | **BitPigeon** | checkmated ❌ | 30/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R1Q4/2B2k2/4N1P1/2P2P2/p3B3/P4K2/8/8 b - - 0 37">Link</a> | Daily |
 | **BitPigeon** | Maria_gruznova | resigned ❌ | 25/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1p1pp/4bp2/3p4/8/8/PPPPQPPP/RNB1KBNR b KQkq -">Link</a> | Rapid |
 | Crashyboi | **BitPigeon** | repetition ⏸️ | 25/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5Qp1/P3K1k1/6b1/7q b - -">Link</a> | Rapid |
 | schacher339 | **BitPigeon** | stalemate ⏸️ | 25/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4N3/6P1/8/3N1K1k/5Q2 b - -">Link</a> | Rapid |
@@ -46,6 +47,5 @@
 | Luiselinocente | **BitPigeon** | resigned ❌ | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/ppppp1pp/7n/5p2/3P1P2/3Q4/PPP1P1PP/RNB1KBNR b KQkq f3">Link</a> | Rapid |
 | alikaytaz | **BitPigeon** | checkmated ❌ | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1R/pR6/3n4/4N3/6P1/8/P2K1PP1/5B2 b - -">Link</a> | Rapid |
 | **BitPigeon** | TheGidler | win 🥇 | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1R1k1/pp3ppp/2p5/5q2/8/N4P2/PP2B2P/4K1NR b K -">Link</a> | Rapid |
-| **BitPigeon** | Agexn0 | checkmated ❌ | 20/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k2r/b1pb1ppp/8/8/5P2/6K1/PPP2q1P/RNB5 w k -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
