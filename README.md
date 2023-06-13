@@ -10,5 +10,5 @@ Help me with <a href="https://github.com/bitpigeon/__pynit__">__pynit__</a>!
 
 <h2 align="center">My Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,css,deno,flask,git,github,html,js,jquery,linux,md,mysql,nodejs,py,raspberrypi,regex,replit,stackoverflow,ts,unity&perline=5&theme=dark">
+  <img src="https://skillicons.dev/icons?i=bash,cpp,cmake,css,deno,emacs,flask,git,github,githubactions,gtk,html,js,jquery,linux,md,mysql,nodejs,py,raspberrypi,regex,replit,rust,stackoverflow,ts,unity,v,vim,vscode&mode=dark&perline=14">
 </p>
