@@ -26,7 +26,7 @@
 <h1 align="center">What I'm working on</h2>
 
 <p align="center">
-  <a href="https://prod.liveshare.vsengsaas.visualstudio.com/join?EC99DBFE22084AA8C063ADF261FFD525449D">
-    <img src="https://img.shields.io/badge/Join_me_on-Visual_Studio_Code-%23288acc?style=for-the-badge&logo=visualstudiocode&logoColor=%23FFFFFF&labelColor=%23328ecc" />
+  <a href="https://github.com/BitPigeon/Divine">
+    <img src="https://img.shields.io/badge/On GitHub-Divine-%23288acc?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23328ecc" />
   </a>
 </p>
