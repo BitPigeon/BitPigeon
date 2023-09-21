@@ -9,6 +9,13 @@
 <p>I enjoy C++, but I struggle with the strict typing.</p>
 <p>Feel free to have a conversation with me at my <a href="htps://github.com/BitPigeon/BitPigeon"><b>main repo</b></a>.</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BitPigeon&theme=nord&show_icons=true&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitPigeon&theme=nord&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
 <h1 align="center">My Skills</h2>
 
 <p align="center">
